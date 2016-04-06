@@ -1,0 +1,28 @@
+name: Regin on marketing
+favicon: null
+layout_spectrum: 0.4151850522030145
+typography_spectrum: 0.8490929808467627
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.21730602136813104
+  lightness: 0.16008156002499163
+  saturation: 0.30139628797769547
+  rhythmicContrast: 0.13461773423478007
+purpose: []
